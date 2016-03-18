@@ -17,8 +17,8 @@ keywords:
   - turtle
   - learn
 description: "Adam This seems to be a name that I am getting familiar with while on the streets meeting new & interesting people. This time, Adam was a musician. Rather than being a life-defending, witch-watcher, who's name I was not certain was actually Adam, this Adam was a Geography-teaching, ciggy-smoking, unemployed, uneducated tiger."
-datePublished: '2016-03-18T03:01:43.875Z'
-dateModified: '2016-03-18T03:01:26.530Z'
+datePublished: '2016-03-18T03:10:01.815Z'
+dateModified: '2016-03-18T03:09:10.500Z'
 author:
   - name: Billy Stokes
     url: 'https://www.blogger.com/profile/16823729249649899263'

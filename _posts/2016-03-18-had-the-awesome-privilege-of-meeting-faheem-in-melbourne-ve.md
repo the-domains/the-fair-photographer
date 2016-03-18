@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T02:40:16.886Z'
-dateModified: '2016-03-18T02:39:43.744Z'
+datePublished: '2016-03-18T02:40:36.082Z'
+dateModified: '2016-03-18T02:40:26.945Z'
 author:
   - name: b.raystokes
     url: 'https://www.instagram.com/b.raystokes'
@@ -30,14 +30,14 @@ app_links:
     namespace: google
     type: android
 title: 'Had the AWESOME privilege of meeting Faheem in Melbourne. Very cool dude. Blog to come on Wednesday. #Melbourne #street #photographer #photography #kalgoorlie #westernaustralia'
+sourcePath: _posts/2016-03-18-had-the-awesome-privilege-of-meeting-faheem-in-melbourne-ve.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-sourcePath: _posts/2016-03-18-had-the-awesome-privilege-of-meeting-faheem-in-melbourne-ve.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 

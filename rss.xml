@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Fair Photographer]]></title>
+        <description><![CDATA[The Fair Photographer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 02:04:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Whole new world out there 🌏 #kalgoorlie #kalgoorlieboulder #photog #photographer #photooftheday #photography #underwaterphotography #underwater #underwaterportrait]]></title>
+            <description><![CDATA[<article><h1>Whole new world out there 🌏 #kalgoorlie #kalgoorlieboulder #photog #photographer #photooftheday #photography #underwaterphotography #underwater #underwaterportrait</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/373fb0c8102320c97f1dd8f2eaa3e15d010dacdc.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BCDMHt9zexG/?taken-by=b.raystokes</link>
+            <guid isPermaLink="false">18710c55-38cf-40a0-90a7-689043808332</guid>
+            <pubDate>Fri, 18 Mar 2016 02:04:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
